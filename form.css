@@ -125,3 +125,7 @@ form>button{
     font-size: 25px;
     border-radius: 10px;
 }
+
+.btn:hover{
+    background-color: #17212F;
+}
